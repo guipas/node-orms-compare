@@ -1,0 +1,16 @@
+{
+  "name": "node-orms-compare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sails-postgresql": "^0.11.4",
+    "waterline": "^0.12.2"
+  }
+}
