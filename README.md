@@ -10,7 +10,7 @@ ORM | Average time to execute query
 ------------ | -------------
 Waterline (with pg adapter) | ~2000ms (!!!😱)
 Sequelize | <250ms
-Bookshelf | < 300ms
+Bookshelf | <300ms
 Query built and executed whith Knex | <200ms
 Raw SQL query with pg | <150ms
 
