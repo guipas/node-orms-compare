@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bookshelf": "^0.12.1",
+    "knex": "^0.13.0",
     "pg": "^7.4.1",
     "pg-hstore": "^2.3.2",
     "sails-postgresql": "^0.11.4",
